@@ -12,7 +12,7 @@
   <meta name="twitter:title" content="Roblox Username">
   <meta name="twitter:description" content="View Roblox Profile">
   <meta name="twitter:image" content="https://www.roblox.com/asset-thumbnail/image?assetId=18865900&amp;width=420&amp;height=420&amp;format=png">
-  <title>Roblox Profile Preview</title>
+  </title>Roblox Profile Preview</title>
 </head>
 <body>
   <h1>Roblox Username</h1>
